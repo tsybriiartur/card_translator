@@ -1,0 +1,4 @@
+ezdxf
+trimesh
+open3d
+flask
